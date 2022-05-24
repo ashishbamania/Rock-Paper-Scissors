@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+
+
+h4 {
+    margin-top: 20px;
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
